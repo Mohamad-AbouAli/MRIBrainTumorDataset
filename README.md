@@ -32,7 +32,7 @@ This study presents a comprehensive approach to enhancing MRI brain tumor classi
 }
 
 ### Article 2
-
+```bibtex
 @ARTICLE{Abou_Ali2025-qu,
   title    = "Enhancing generalization and mitigating overfitting in deep
               learning for brain cancer diagnosis from {MRI}",
