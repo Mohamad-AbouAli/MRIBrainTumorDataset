@@ -7,17 +7,13 @@ This study presents a comprehensive approach to enhancing MRI brain tumor classi
 ---
 
 ## Articles - DOIs
-### Article 1
-- [DOI: https://doi.org/10.1016/j.ejmp.2024.104841](https://doi.org/10.1016/j.ejmp.2024.104841)
-
-### Article 2
-- [DOI: https://doi.org/10.1007/s00723-024-01743-y](https://doi.org/10.1007/s00723-024-01743-y)
+- [🔗 DOI: https://doi.org/10.1016/j.ejmp.2024.104841](https://doi.org/10.1016/j.ejmp.2024.104841)
+- [🔗 DOI: https://doi.org/10.1007/s00723-024-01743-y](https://doi.org/10.1007/s00723-024-01743-y)
 
 ---
 
 ## 📚 **References**
 
-### Article 1
 ```bibtex
 @ARTICLE{Ali2024-xt,
   title    = "Enhancing {MRI} brain tumor classification: A comprehensive
@@ -33,9 +29,6 @@ This study presents a comprehensive approach to enhancing MRI brain tumor classi
   language = "en"
 }
 
----
-### Article 2
-```bibtex
 @ARTICLE{Abou_Ali2025-qu,
   title    = "Enhancing generalization and mitigating overfitting in deep
               learning for brain cancer diagnosis from {MRI}",
