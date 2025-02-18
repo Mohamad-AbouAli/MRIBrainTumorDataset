@@ -15,7 +15,7 @@ This study presents a comprehensive approach to enhance MRI brain tumor classifi
 </p>
 
 
-
+- **Figure 1**: ![Phase 1 — Model selection and evaluation]([https://www.physicamedica.com/cms/10.1016/j.ejmp.2024.104841/asset/113b60d6-02e4-423b-a309-5add56e4f9ba/main.assets/gr2_lrg.jpg](https://www.mdpi.com/algorithms/algorithms-16-00562/article_deploy/html/images/algorithms-16-00562-g004-550.jpg))
 - **Figure 2**: ![Phase 1 — Model selection and evaluation](https://www.physicamedica.com/cms/10.1016/j.ejmp.2024.104841/asset/113b60d6-02e4-423b-a309-5add56e4f9ba/main.assets/gr2_lrg.jpg)
 - **Figure 3**: ![Score-CAM for transfer learning DenseNet-169](https://www.physicamedica.com/cms/10.1016/j.ejmp.2024.104841/asset/c70c32d6-34e3-42a1-8f5f-02568b558842/main.assets/gr3_lrg.jpg)
 - **Figure 4**: ![Phase 2 — Further Results’ validation](https://www.physicamedica.com/cms/10.1016/j.ejmp.2024.104841/asset/04dfb12a-6c81-421c-840b-abe7261a4ec6/main.assets/gr4_lrg.jpg)
