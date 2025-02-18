@@ -7,10 +7,9 @@ This study presents a comprehensive approach to enhancing MRI brain tumor classi
 ---
 
 ## 📚 **References**
-bibtex
 
 ** Article 1**
-
+bibtex
 @ARTICLE{Ali2024-xt,
   title    = "Enhancing {MRI} brain tumor classification: A comprehensive
               approach integrating real-life scenario simulation and
@@ -26,7 +25,7 @@ bibtex
 }
 
 ** Article 2**
-
+bibtex
 @ARTICLE{Abou_Ali2025-qu,
   title    = "Enhancing generalization and mitigating overfitting in deep
               learning for brain cancer diagnosis from {MRI}",
