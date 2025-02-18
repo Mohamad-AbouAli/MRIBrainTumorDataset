@@ -13,6 +13,8 @@ This study presents a comprehensive approach to enhancing MRI brain tumor classi
 ### Article 2
 - [DOI: https://doi.org/10.1007/s00723-024-01743-y](https://doi.org/10.1007/s00723-024-01743-y)
 
+---
+
 ## 📚 **References**
 
 ### Article 1
@@ -31,6 +33,7 @@ This study presents a comprehensive approach to enhancing MRI brain tumor classi
   language = "en"
 }
 
+---
 ### Article 2
 ```bibtex
 @ARTICLE{Abou_Ali2025-qu,
