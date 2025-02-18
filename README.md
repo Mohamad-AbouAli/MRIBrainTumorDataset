@@ -7,7 +7,10 @@ This study presents a comprehensive approach to enhancing MRI brain tumor classi
 ---
 
 ## Articles - DOIs
+### Article 1
 - [🔗 DOI: https://doi.org/10.1016/j.ejmp.2024.104841](https://doi.org/10.1016/j.ejmp.2024.104841)
+
+### Article 2
 - [🔗 DOI: https://doi.org/10.1007/s00723-024-01743-y](https://doi.org/10.1007/s00723-024-01743-y)
 
 ---
