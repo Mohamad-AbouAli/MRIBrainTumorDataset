@@ -31,7 +31,7 @@ This study presents a comprehensive approach to enhancing MRI brain tumor classi
   language = "en"
 }
 
-** Article 2**
+### Article 2
 
 @ARTICLE{Abou_Ali2025-qu,
   title    = "Enhancing generalization and mitigating overfitting in deep
