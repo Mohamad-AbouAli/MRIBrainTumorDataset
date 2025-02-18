@@ -2,9 +2,16 @@
 
 ## 📌 Summary
 
-This study presents a comprehensive approach to enhancing MRI brain tumor classification by integrating real-life scenario simulation and augmentation techniques. The authors evaluated pre-trained deep learning models on a primary brain cancer MRI dataset, achieving high performance metrics. However, when tested on synthetic datasets that mimic real-world complexities, the models' performance dropped significantly, highlighting the need for improved generalization.
+This study presents a comprehensive approach to enhancing MRI brain tumor classification by integrating real-life scenario simulation and augmentation techniques. The authors evaluated pre-trained deep learning models on a primary brain cancer MRI dataset ("BT-MRI" dataset), achieving high performance metrics. However, when tested on synthetic datasets (Challenging dataset) that mimic real-world complexities, the models' performance dropped significantly, highlighting the need for improved generalization.
 
 ---
+
+## Articles - DOIs
+### Article 1
+- [DOI: https://doi.org/10.1016/j.ejmp.2024.104841](https://doi.org/10.1016/j.ejmp.2024.104841)
+
+### Article 2
+- [DOI: https://doi.org/10.1016/j.ejmp.2024.104841](https://doi.org/10.1007/s00723-024-01743-y)
 
 ## 📚 **References**
 
